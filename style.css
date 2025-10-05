@@ -1,0 +1,36 @@
+/* Center the bio paragraph in the profile card */
+.profile-card p {
+	text-align: center;
+}
+/* Center and enlarge headings in the profile card */
+
+.profile-card h1 {
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 10px;
+	color: #4B006E; /* dark purple */
+}
+
+
+.profile-card h2 {
+	font-size: 24px;
+	text-align: center;
+	margin-bottom: 20px;
+	color: #C2185B; /* dark pink */
+}
+body {
+	background-color: #e6e6fa; /* light purple */
+	font-family: Arial, Helvetica, sans-serif;
+}
+/* Simple card styling for the profile */
+.profile-card {
+	background: #fff;
+	border: 2px solid #b39ddb;
+	border-radius: 12px;
+	padding: 32px 24px;
+	max-width: 350px;
+	margin: 40px auto;
+	box-shadow: 0 2px 8px rgba(75,0,110,0.08);
+}
+
+/* Add your profile card styles here */
